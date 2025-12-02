@@ -1,0 +1,9 @@
+{
+  "subject": "Schůze",
+  "description": "Důležitá schůze", 
+  "place": "Konferenční místnost 3",
+  "note": "Přijďte včas",
+  "header": "Účast je povinná",
+  "footer": "S pozdravem",
+  "document": "Test-document.docx"
+}
